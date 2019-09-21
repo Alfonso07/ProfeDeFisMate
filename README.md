@@ -1,2 +1,2 @@
 # ProfeDeFisMate
-Decente en Matemáticas, Física, Energías Renovables
+Docente en Matemáticas, Física, Energías Renovables
